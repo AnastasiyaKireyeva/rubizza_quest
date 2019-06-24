@@ -1,10 +1,12 @@
 full_name: 'Anastasija Kireeva'
 age: 19
 education: 'Minsk State Linguistic University. English Faculty. 2017-2022'
-have_a_job: no
+have_a_job: 'no'
 laptop: 'yes,linux'
-skills:
-    - English-C1
+hours_per_day: 10
+phone_number: 375447521383
+english: C1
+programming_languages:
     - HTML/CSS
     - SQL
     - 'Basic knowledge of Java'

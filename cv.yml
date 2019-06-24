@@ -1,0 +1,14 @@
+full_name: 'Anastasija Kireeva'
+age: 19
+education: 'Minsk State Linguistic University. English Faculty. 2017-2022'
+have_a_job: no
+laptop: 'yes,linux'
+skills:
+    - English-C1
+    - HTML/CSS
+    - SQL
+    - 'Basic knowledge of Java'
+    - 'Got a bit acquainted with Ruby'
+goal: 'I am really interested in this sphere, so I am looking forward to broaden my mind .That is why I want to develop myself as a ruby developer and to adopt some experience from skilled people.'
+
+
